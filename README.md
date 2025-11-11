@@ -1,4 +1,4 @@
-# ShopSphere 🛍️!
+# ShopSphere 🛍️
 
 A feature-rich, visually stunning e-commerce mobile application built with Flutter. This project demonstrates advanced UI/UX concepts, robust state management, and live API integration, transforming a simple data source into a complete, memorable shopping experience.
 
